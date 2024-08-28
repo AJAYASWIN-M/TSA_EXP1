@@ -8,10 +8,10 @@
 To Develop a python program to Plot a time series data of Petrol Price in Top Cities
 # ALGORITHM:
 1. Import the required packages like pandas and matplot
-2. Read the dataset using the pandas
-3. Calculate the mean for the respective column.
-4. Plot the data according to need and can be altered monthly, or yearly.
-5. Display the graph.
+2. Read the Petrol Price dataset using the pandas
+3. Plot the data according to need and can be altered monthly, or yearly.
+4. Display the graph.
+5. End of the Program.
 # PROGRAM:
 ```py
 import pandas as pd
@@ -45,4 +45,4 @@ plt.show()
 
 
 # RESULT:
-Thus we have created the python code for plotting the time series of given data.
+Thus,the python code for plotting the time series of given data.
